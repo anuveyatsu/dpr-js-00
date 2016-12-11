@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import VegaLite from 'react-vega-lite';
 import spec from '../vl_spec.json'
 
