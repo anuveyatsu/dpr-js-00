@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Plotly from 'plotly.js/lib/core';
+import Plotly from './src/custom-plotly';
+
 
 class Plot extends React.Component {
   componentDidMount() {
